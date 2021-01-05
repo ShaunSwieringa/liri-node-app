@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/ShaunSwieringa/liri-node-app#readme",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "bandsintown": "^1.0.1",
     "concert": "^2.1.0",
     "dotenv": "^8.0.0",
